@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+whisper_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Ignore dotenv file containing secrets
+.env
